@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<orders_list>
+    <order_item id="1">
+        <clientsName>
+            Пупкин А.
+        </clientsName>
+        <dishes>
+            <dish id="1">
+                Салат Изюминка
+            </dish>
+            <dish id="2">
+                Печень по королевски
+            </dish>
+            <dish id="3">
+                Рис отварной с маслом
+            </dish>
+            <dish id="4">
+                Рулет с изюмом
+            </dish>
+        </dishes>
+    </order_item>
+    <order_item id="2">
+        <clientsName>
+            Кривенко С.
+        </clientsName>
+        <dishes>
+            <dish id="1">
+                Салат Лукошко
+            </dish>
+            <dish id="2">
+                Суп куриный с грибами
+            </dish>
+            <dish id="3">
+                Свинина запеченная"По-гусарски"
+            </dish>
+            <dish id="4">
+                Макароны отварные
+            </dish>
+            <dish id="5">
+                Пирог с яблоками
+            </dish>
+        </dishes>
+    </order_item>
+    <order_item id="3">
+        <clientsName>
+            Гайченов П.
+        </clientsName>
+        <dishes>
+            <dish id="1">
+                Суп болгарский вегетарианский
+            </dish>
+            <dish id="2">
+                Рыбное филе с помидоркой
+            </dish>
+            <dish id="3">
+                Рулет с изюмом
+            </dish>
+            <dish id="4">
+                Пирог с повидлом
+            </dish>
+        </dishes>
+    </order_item>
+    <order_item id="4">
+        <clientsName>
+            Сухожилов Л.
+        </clientsName>
+        <dishes>
+            <dish id="1">
+                Салат Изюминка
+            </dish>
+            <dish id="2">
+                Суп куриный с грибами
+            </dish>
+            <dish id="3">
+                Печень  по королевски
+            </dish>
+            <dish id="4">
+                Макароны отварные
+            </dish>
+            <dish id="5">
+                Пирог с повидлом
+            </dish>
+        </dishes>
+    </order_item>
+</orders_list>
